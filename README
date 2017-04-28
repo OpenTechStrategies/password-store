@@ -1,14 +1,17 @@
 ======================
 Simple Password Store
-by Jason Donenfeld
-   Jason@zx2c4.com
 ======================
 
-This is a very simple password store that encrypts passwords using gpg and
-places the encrypted password in a directory. It can generate new passwords
-and keep track of old ones.
+This is a clone of Jason Donenfeld's Simple Password Store with some
+changes added on top.  In particular, we are adding svn support.  We
+plan to offer changes back upstream.
 
-Visit the project page for more information: http://www.passwordstore.org/
+This is a very simple password store that encrypts passwords using gpg
+and places the encrypted password in a directory. It can generate new
+passwords and keep track of old ones.
+
+Visit Donenfeld's original project page for more information:
+http://www.passwordstore.org/
 
 Please see the man page for documentation and examples.
 
